@@ -1,5 +1,5 @@
 # Newsletter Card
-A simple newsletter subscription card with HTML and CSS.
+A simple newsletter subscription card with HTML5 and CSS3.
 
 ## Description
 
@@ -7,7 +7,7 @@ This project implements a newsletter subscription card using HTML5 and CSS3. Use
 
 ## Preview
 
-[Newsletter Card Preview]()
+[Newsletter Card Preview](https://narendrakoya999.github.io/Newsletter-Card/)
 
 ## Languages Used
 ![HTML5](https://img.shields.io/badge/HTML5-valid-orange?style=flat&logo=html5)
@@ -15,7 +15,7 @@ This project implements a newsletter subscription card using HTML5 and CSS3. Use
 
 ## Features
 
-- Responsive design using CSS media queries.
+- Responsive design using CSS3 media queries.
 - Subscription form with email input and subscribe button.
 - Checkbox for agreeing to receive the newsletter.
 
